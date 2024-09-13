@@ -54,6 +54,7 @@ form{
 }
 fieldset{
   border: none;
+  position: relative;
 }
 .fieldset-wrapper{
   display: flex;
